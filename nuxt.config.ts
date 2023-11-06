@@ -3,6 +3,10 @@ export default {
    ** Headers of the page
    ** Doc: https://vue-meta.nuxtjs.org/api/#metainfo-properties
    */
+   generate: {
+    dir: 'docs' // specify the output directory
+    
+  },
   head: {
     title: "Nuxt.js starter for CSB",
     meta: [
