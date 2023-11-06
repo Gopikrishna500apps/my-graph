@@ -1,5 +1,0 @@
-- name: Build and Deploy
-  run: |
-    npm install
-    npm run generate
-    mv dist docs
