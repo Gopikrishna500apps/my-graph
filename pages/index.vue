@@ -5,5 +5,5 @@
 </template>
 <script setup>
 import NetworkGraph from '../src/components/NetworkGraph.vue';
-import chartData from '../src/data/networkGraph.json';
+import chartData from '../data/networkGraph.json';
 </script>
